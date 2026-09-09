@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code in your research, please cite the accompanying paper.
+title: EquiSSL code release
+authors:
+  - family-names: Zhou
+    given-names: Tianjian
+  - family-names: Li
+    given-names: Yishan
+  - family-names: Jiang
+    given-names: Jie
+  - family-names: Zhang
+    given-names: Yifei
+repository-code: https://github.com/Jaywalk18/equissl-release
+license: MIT
+preferred-citation:
+  type: article
+  title: Gauge-Equivariant Attention for Rotation-Stable 360° Scene Understanding
+  authors:
+    - family-names: Zhou
+      given-names: Tianjian
+    - family-names: Li
+      given-names: Yishan
+    - family-names: Jiang
+      given-names: Jie
+    - family-names: Zhang
+      given-names: Yifei
+  journal: ACM Transactions on Graphics
+  year: 2026
+  volume: 45
+  issue: 6
+  doi: 10.1145/3842525

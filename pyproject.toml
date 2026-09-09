@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "equissl"
+version = "1.0.0"
+description = "Gauge-equivariant attention and rotation-consistent self-supervised learning for 360-degree scene understanding"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+  {name = "Tianjian Zhou"},
+  {name = "Yishan Li"},
+  {name = "Jie Jiang"},
+  {name = "Yifei Zhang"},
+]
+
+[tool.setuptools.packages.find]
+include = ["equissl*"]
